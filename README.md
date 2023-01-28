@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **amoatey.cray@gmail.com**
 
-- ⚡ Favorite quote **"There's a divinity that shapes our ends, Rough-hew them how we will.**
+- ⚡ Favorite quote **"There's a divinity that shapes our ends, Rough-hew them how we will."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
