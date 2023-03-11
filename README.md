@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cray</h1>
 <h3 align="center">I take interest in learning and skill development, with Electrical Engineering background I decide to include Software Engineering, particularly Front-End Development.</h3>
-<p align="left"> <a href="https://twitter.com/jiggy_cray" target="blank"><img src="https://img.shields.io/twitter/follow/jiggy_cray?logo=twitter&style=for-the-badge" alt="jiggy_cray" /></a> </p>
+
 
 - 🔭 I’m currently working on [Tic-Tac-Toe game](https://github.com/Cray-Amoatey/Tic-Tac-Toe-game)
 
@@ -11,6 +11,7 @@
 - 📫 How to reach me **amoatey.cray@gmail.com**
 
 - ⚡ Favorite quote **"There's a divinity that shapes our ends, Rough-hew them how we will."**
+<p align="left"> <a href="https://twitter.com/jiggy_cray" target="blank"><img src="https://img.shields.io/twitter/follow/jiggy_cray?logo=twitter&style=for-the-badge" alt="jiggy_cray" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
