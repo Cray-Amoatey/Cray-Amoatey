@@ -2,9 +2,9 @@
 <h3 align="center">I take interest in learning and skill development, with Electrical Engineering background I decide to include Software Engineering, particularly Front-End Development.</h3>
 
 
-- 🔭 I’m currently working on [Tic-Tac-Toe game](https://github.com/Cray-Amoatey/Tic-Tac-Toe-game)
+- 🔭 I’m currently working on [REST COUNTRIES API]()
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **REACT**
 
 - 📝 I sometimes write articles on [https://twitter.com/Jiggy_Cray](https://twitter.com/Jiggy_Cray)
 
